@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    margin-top:10px;
+}
+.avatar img{
+    width:40px;
+    border-radius: 50%;
+}
+.chat_name{
+    align-self: flex-start;
+}

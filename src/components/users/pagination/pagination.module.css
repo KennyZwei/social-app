@@ -1,0 +1,16 @@
+.pagination {
+
+}
+
+.pageNumbers {
+    display: flex;
+}
+
+.pageNumber {
+    margin-right: 3px;
+    background-color: darkcyan;
+}
+
+.active {
+    color:red;
+}

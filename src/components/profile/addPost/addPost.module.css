@@ -1,0 +1,9 @@
+.add_post{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    min-width:100%;
+}
+.add_post textarea{
+    width: 100%;
+}
